@@ -2,7 +2,12 @@
 Field-Trip-To-BSU
 amazing Project
 ## How to compile
-ToDo::
+
+```bash
+java Hello.java
+```
 ## How to run
-ToDo:
-For fun
+
+```bash
+java Hello
+```
